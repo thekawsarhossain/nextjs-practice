@@ -1,0 +1,1 @@
+### NextJs simple project
